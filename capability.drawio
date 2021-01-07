@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-07T06:19:52.942Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="sfQCBh2EuH6vNavKzBw3" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-07T06:24:23.119Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="BIPpzdVtaChgdyKyvL4V" version="14.0.1" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="2115" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -89,7 +89,12 @@
         </mxCell>
         <mxCell id="Wkxa0QbtelDB-Q0z7keD-48" value="配置圈人条件项" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Wkxa0QbtelDB-Q0z7keD-45" vertex="1" connectable="0">
           <mxGeometry x="0.7273" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XmUrZ2d7nXlU5lwVd_Uo-27" value="资源生产、测试、修改" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Wkxa0QbtelDB-Q0z7keD-45">
+          <mxGeometry x="0.7273" y="1" relative="1" as="geometry">
+            <mxPoint x="-205" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Wkxa0QbtelDB-Q0z7keD-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Wkxa0QbtelDB-Q0z7keD-44" target="15" edge="1">
@@ -97,7 +102,12 @@
         </mxCell>
         <mxCell id="Wkxa0QbtelDB-Q0z7keD-49" value="配置玩法" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Wkxa0QbtelDB-Q0z7keD-46" vertex="1" connectable="0">
           <mxGeometry x="0.8362" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XmUrZ2d7nXlU5lwVd_Uo-29" value="配置预算" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Wkxa0QbtelDB-Q0z7keD-46">
+          <mxGeometry x="0.8362" y="1" relative="1" as="geometry">
+            <mxPoint x="190" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XmUrZ2d7nXlU5lwVd_Uo-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Wkxa0QbtelDB-Q0z7keD-44" target="XmUrZ2d7nXlU5lwVd_Uo-18">
