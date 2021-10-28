@@ -1,1 +1,175 @@
-<mxfile host="app.diagrams.net" modified="2021-10-28T12:14:19.693Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="lV7fckbddSao8StgfGcI" version="14.7.3" type="github"><diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-28T12:16:08.093Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="5FbD6hmDGOGoJvJwzEdX" version="14.7.3" type="github">
+  <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
+    <mxGraphModel dx="2595" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aWE_fqBYEXQU9oCvTYkU-18" value="" style="shape=flexArrow;endArrow=classic;html=1;strokeWidth=1;endSize=6;shadow=0;sketch=0;rounded=1;arcSize=20;endWidth=30;width=30;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1050" y="343" as="sourcePoint" />
+            <mxPoint x="-900" y="343" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aWE_fqBYEXQU9oCvTYkU-20" value="2020年9-10双月" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="aWE_fqBYEXQU9oCvTYkU-18" vertex="1" connectable="0">
+          <mxGeometry x="-0.0933" y="-2" relative="1" as="geometry">
+            <mxPoint y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aWE_fqBYEXQU9oCvTYkU-21" value="" style="shape=flexArrow;endArrow=classic;html=1;strokeWidth=1;endSize=6;shadow=0;sketch=0;rounded=1;arcSize=20;endWidth=30;width=30;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-880" y="343" as="sourcePoint" />
+            <mxPoint x="-730" y="343" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aWE_fqBYEXQU9oCvTYkU-22" value="2020年11-12双月" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="aWE_fqBYEXQU9oCvTYkU-21" vertex="1" connectable="0">
+          <mxGeometry x="-0.0933" y="-2" relative="1" as="geometry">
+            <mxPoint y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aWE_fqBYEXQU9oCvTYkU-25" value="" style="shape=flexArrow;endArrow=classic;html=1;strokeWidth=1;endSize=6;shadow=0;sketch=0;rounded=1;arcSize=20;endWidth=30;width=30;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-540" y="343" as="sourcePoint" />
+            <mxPoint x="-390" y="343" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aWE_fqBYEXQU9oCvTYkU-26" value="2021年3-4，5-6双月" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="aWE_fqBYEXQU9oCvTYkU-25" vertex="1" connectable="0">
+          <mxGeometry x="-0.0933" y="-2" relative="1" as="geometry">
+            <mxPoint y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aWE_fqBYEXQU9oCvTYkU-27" value="" style="shape=flexArrow;endArrow=classic;html=1;strokeWidth=1;endSize=6;shadow=0;sketch=0;rounded=1;arcSize=20;endWidth=30;width=30;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-710" y="343" as="sourcePoint" />
+            <mxPoint x="-560" y="343" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aWE_fqBYEXQU9oCvTYkU-28" value="2021年1-2双月" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="aWE_fqBYEXQU9oCvTYkU-27" vertex="1" connectable="0">
+          <mxGeometry x="-0.0933" y="-2" relative="1" as="geometry">
+            <mxPoint y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aWE_fqBYEXQU9oCvTYkU-29" value="" style="endArrow=classic;html=1;shadow=0;endSize=6;strokeWidth=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-990" y="393" as="sourcePoint" />
+            <mxPoint x="-990" y="363" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aWE_fqBYEXQU9oCvTYkU-30" value="" style="shape=flexArrow;endArrow=classic;html=1;strokeWidth=1;endSize=6;shadow=0;sketch=0;rounded=1;arcSize=20;endWidth=30;width=30;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-370" y="343" as="sourcePoint" />
+            <mxPoint x="-220" y="343" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aWE_fqBYEXQU9oCvTYkU-31" value="2021年7-8双月" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="aWE_fqBYEXQU9oCvTYkU-30" vertex="1" connectable="0">
+          <mxGeometry x="-0.0933" y="-2" relative="1" as="geometry">
+            <mxPoint y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aWE_fqBYEXQU9oCvTYkU-32" value="" style="shape=flexArrow;endArrow=classic;html=1;strokeWidth=1;endSize=6;shadow=0;sketch=0;rounded=1;arcSize=20;endWidth=30;width=30;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-200" y="343" as="sourcePoint" />
+            <mxPoint x="-50" y="343" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aWE_fqBYEXQU9oCvTYkU-33" value="2021年9-10双月" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="aWE_fqBYEXQU9oCvTYkU-32" vertex="1" connectable="0">
+          <mxGeometry x="-0.0933" y="-2" relative="1" as="geometry">
+            <mxPoint y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aWE_fqBYEXQU9oCvTYkU-34" value="资源团队成立，总人数3人" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-1060" y="393" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aWE_fqBYEXQU9oCvTYkU-35" value="" style="endArrow=classic;html=1;shadow=0;endSize=6;strokeWidth=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-990" y="293" as="sourcePoint" />
+            <mxPoint x="-990" y="323" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aWE_fqBYEXQU9oCvTYkU-36" value="项目管理平台一期" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-1050" y="273" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aWE_fqBYEXQU9oCvTYkU-37" value="" style="endArrow=classic;html=1;shadow=0;endSize=6;strokeWidth=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-810" y="293" as="sourcePoint" />
+            <mxPoint x="-810" y="323" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aWE_fqBYEXQU9oCvTYkU-38" value="通用人群需求" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-880" y="273" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aWE_fqBYEXQU9oCvTYkU-39" value="" style="endArrow=classic;html=1;shadow=0;endSize=6;strokeWidth=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-810" y="393" as="sourcePoint" />
+            <mxPoint x="-810" y="363" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aWE_fqBYEXQU9oCvTYkU-40" value="划分圈人方向，总人数5人" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-890" y="393" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aWE_fqBYEXQU9oCvTYkU-41" value="" style="endArrow=classic;html=1;shadow=0;endSize=6;strokeWidth=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-640" y="293" as="sourcePoint" />
+            <mxPoint x="-640" y="323" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aWE_fqBYEXQU9oCvTYkU-42" value="接收banner B&amp;amp;C端业务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-710" y="273" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aWE_fqBYEXQU9oCvTYkU-43" value="" style="endArrow=classic;html=1;shadow=0;endSize=6;strokeWidth=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-640" y="393" as="sourcePoint" />
+            <mxPoint x="-640" y="363" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aWE_fqBYEXQU9oCvTYkU-44" value="划分资源功能方向，总人数6人" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-720" y="393" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aWE_fqBYEXQU9oCvTYkU-45" value="" style="endArrow=classic;html=1;shadow=0;endSize=6;strokeWidth=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-470" y="293" as="sourcePoint" />
+            <mxPoint x="-470" y="323" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aWE_fqBYEXQU9oCvTYkU-46" value="接入商业化&lt;br&gt;dou+/内广资源" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-540" y="273" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aWE_fqBYEXQU9oCvTYkU-51" value="" style="endArrow=classic;html=1;shadow=0;endSize=6;strokeWidth=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-300" y="293" as="sourcePoint" />
+            <mxPoint x="-300" y="323" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aWE_fqBYEXQU9oCvTYkU-52" value="接入抖音主端资源&lt;br&gt;飞盘重构启动&lt;br&gt;ROI计算项目进入研发" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-370" y="263" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aWE_fqBYEXQU9oCvTYkU-53" value="" style="endArrow=classic;html=1;shadow=0;endSize=6;strokeWidth=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-130" y="293" as="sourcePoint" />
+            <mxPoint x="-130" y="323" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aWE_fqBYEXQU9oCvTYkU-54" value="资源精细化投放需求" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-200" y="273" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aWE_fqBYEXQU9oCvTYkU-55" value="" style="endArrow=classic;html=1;shadow=0;endSize=6;strokeWidth=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-300" y="393" as="sourcePoint" />
+            <mxPoint x="-300" y="363" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aWE_fqBYEXQU9oCvTYkU-56" value="划分策略引擎和ROI计算方向&lt;br&gt;总人数11人" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-380" y="393" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aWE_fqBYEXQU9oCvTYkU-57" value="" style="endArrow=classic;html=1;shadow=0;endSize=6;strokeWidth=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-130" y="393" as="sourcePoint" />
+            <mxPoint x="-130" y="363" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aWE_fqBYEXQU9oCvTYkU-58" value="计划划分资源分发子方向" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-210" y="393" width="160" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
